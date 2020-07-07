@@ -200,4 +200,4 @@ Enable any of the following features on the NGINX Plus load balancer for extra c
 
 ## Q&A 
 
-* **This does not need to be done in a vacuum**.  You can always ask questions at any step along the way.  Clarity is important so you will not be penalized for asking any questions.
+* **This does not need to be done in a vacuum**.  You can always ask questions at any step along the way.  Clarity is important so you will not be penalized for asking any questions.# nginx-se-challenge
